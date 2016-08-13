@@ -1,7 +1,5 @@
-Code lines and blocks in Karaoke Templater allows you to create advanced
-effects by incorporating small snippets of Lua code. This can range from simple
-mathematical expressions adding two numbers to complex functions that for
-example could generate various shapes in cycling colours.
+Code行和Code区是由卡拉OK模板执行器产生的概念，它们允许你使用小段的Lua代码来创作高级特效。
+代码可以是几个数字之间的简单运算，也可以是复杂的函数，例如生成各种各样的图形和颜色。
 
 Both code lines and code blocks are run in a separate semi-closed execution
 environment, meaning they are mostly undisturbed by the primary Lua environment
